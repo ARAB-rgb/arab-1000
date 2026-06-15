@@ -1,0 +1,6 @@
+{
+  "name": "عرب وورلد | ARAB",
+  "description": "النظام المحاسبي المتكامل - شركة عرب وورلد لإدارة العقود والتقسيط والمشاريع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
